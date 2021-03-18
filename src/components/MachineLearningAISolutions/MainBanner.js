@@ -53,7 +53,7 @@ const MainBanner = () => {
               <div className="d-table-cell">
                 <div className="container">
                   <div className="banner-item-content">
-                    <h1>DECENTALIZED SOCIAL</h1>
+                    <h1>DECENTRALIZED SOCIAL</h1>
                     <p>
                       A revolutionary investment platform on a global scale,
                       providing real services. Open business data, transparency,
