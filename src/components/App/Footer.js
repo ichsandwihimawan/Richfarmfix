@@ -69,7 +69,7 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p>
-                Copyright @{currentYear} <strong>Richfarms</strong> All rights
+                Copyright @{currentYear} <strong>Richfarm</strong> All rights
                 reserved{" "}
                 <a
                   target="_blank"
