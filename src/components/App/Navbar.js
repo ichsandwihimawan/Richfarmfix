@@ -184,7 +184,7 @@ const Navbar = () => {
                 <div className="others-option d-flex align-items-center">
                   <div className="option-item">
                     <Link
-                      to="/profile-authentication"
+                      to="https://richfarm.app/login/"
                       activeClassName="active"
                       onClick={() => setCollapsed(true)}
                       className="default-btn"
