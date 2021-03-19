@@ -52,7 +52,7 @@ const Testimonials = () => {
             <div className="single-testimonials-item">
               <h2>"A 1000 MIL JOURNEY STARTING FROM 1 STEP"</h2>
               <br /> <br />
-              <Link to="/profile-authentication" className="default-btn">
+              <Link to="https://richfarm.app/login/" className="default-btn">
                 <i className="flaticon-right"></i>
                 JOIN US - SIGN UP <span></span>
               </Link>

@@ -19,7 +19,7 @@ const StartProject = () => {
             <div className="project-start-content">
               <h2>We Like to Start Your Project With Us</h2>
 
-              <Link to="/profile-authentication" className="default-btn">
+              <Link to="https://richfarm.app/login/" className="default-btn">
                 <i className="flaticon-web"></i>
                 Get Started
                 <span></span>

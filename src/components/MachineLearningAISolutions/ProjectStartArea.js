@@ -23,7 +23,7 @@ const ProjectStartArea = () => {
                 eiusmod tempor incididunt ut labore et dolore magna.
               </p>
 
-              <Link to="/contact" className="default-btn">
+              <Link to="https://richfarm.app/login/" className="default-btn">
                 <i className="flaticon-web"></i>
                 Get Started
                 <span></span>
